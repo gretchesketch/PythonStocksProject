@@ -13,7 +13,9 @@ Table of Contents
 
  Introduction
 ----------------------------------------------------------------------------------------------------------
- 
+ Python project exploring 5 years of data from 4 S&P500 companies: Google, Amazon, Apple, and Microsoft.
+    Using matplotlib I show a chart for each company's closing price every day for 5 years. The next chart is the trade volume for each company. When paired with the stock price chart a pattern becomes clear. People buy and hold the higher priced stocks rather than trade daily. Next, I explore the price change in any given day for each company. I compare the opening price to the closing price and return the difference in percentage format.  The next plotly chart I create shows the mean closing price for each month. This chart shows a clear indication of down and upward trends over the years. I wanted to see if there was any correlation between the tech giants and after looking for the perfect visual a heatmap answered my questions. Year over year the stocks prices do tend to go up but there were similarities between Amazon and Microsoft. The highest priced and the lowest priced stocks matched 96%. I have to say Amazon was good at staying relevant in all of my analysis, probably should add some to my investment portfolio.
+
 
 
  * Video Walk-through URL: 
