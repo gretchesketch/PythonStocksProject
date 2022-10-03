@@ -18,7 +18,9 @@ Table of Contents
 
  * Video Walk-through URL: 
 
- * Repo URL: 
+ * Repo URL: https://github.com/gretchesketch/PythonStocksProject
+ 
+ * Presentation Link: https://docs.google.com/presentation/d/1gGajvCL9ir9FLwoYxwrEYAUFrJu-DkR4s9FuPyfiwJY/edit?usp=sharing
 
 
 Tech
