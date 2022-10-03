@@ -34,6 +34,7 @@ This project used the following:
  * Jupyter Notebook
  * Numpy
  * Pandas
+ * seaborn
 
 
 
@@ -46,6 +47,7 @@ Dependencies
  * Matplotlib
  * numpy
  * Pandas
+ * seaborn
  
  
 
