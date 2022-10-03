@@ -18,7 +18,7 @@ Table of Contents
 
 
 
- * Video Walk-through URL: 
+ * Video Walk-through URL: https://drive.google.com/file/d/1i6wk2957o50Z1EPIDcdvQW-Kgx0BzQWm/view
 
  * Repo URL: https://github.com/gretchesketch/PythonStocksProject
  
